@@ -6,8 +6,8 @@ package cmd
 
 import (
 	"fmt"
-	"json-beautifer/clipboard"
-	"json-beautifer/formatter"
+	"github.com/eneskzlcn/jsn/clipboard"
+	"github.com/eneskzlcn/jsn/formatter"
 	"os"
 
 	"github.com/spf13/cobra"
